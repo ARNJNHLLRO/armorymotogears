@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/armorymotogears/static/css/main.5c139dfe.chunk.css",
+    "main.js": "/armorymotogears/static/js/main.ccfc6229.chunk.js",
+    "main.js.map": "/armorymotogears/static/js/main.ccfc6229.chunk.js.map",
+    "runtime-main.js": "/armorymotogears/static/js/runtime-main.b9b5e8dc.js",
+    "runtime-main.js.map": "/armorymotogears/static/js/runtime-main.b9b5e8dc.js.map",
+    "static/js/2.3f797365.chunk.js": "/armorymotogears/static/js/2.3f797365.chunk.js",
+    "static/js/2.3f797365.chunk.js.map": "/armorymotogears/static/js/2.3f797365.chunk.js.map",
+    "index.html": "/armorymotogears/index.html",
+    "precache-manifest.2052eeda1021fa5c3ab3f265fc71f3b3.js": "/armorymotogears/precache-manifest.2052eeda1021fa5c3ab3f265fc71f3b3.js",
+    "service-worker.js": "/armorymotogears/service-worker.js",
+    "static/css/main.5c139dfe.chunk.css.map": "/armorymotogears/static/css/main.5c139dfe.chunk.css.map",
+    "static/js/2.3f797365.chunk.js.LICENSE.txt": "/armorymotogears/static/js/2.3f797365.chunk.js.LICENSE.txt",
+    "static/media/armory-red.png": "/armorymotogears/static/media/armory-red.f0c61f85.png",
+    "static/media/index.css": "/armorymotogears/static/media/home-image.1d72087d.jpg",
+    "static/media/logo.svg": "/armorymotogears/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9b5e8dc.js",
+    "static/js/2.3f797365.chunk.js",
+    "static/css/main.5c139dfe.chunk.css",
+    "static/js/main.ccfc6229.chunk.js"
+  ]
+}
